@@ -87,6 +87,8 @@ public class PowersController : MonoBehaviour {
                     Debug.Log(magnetismForce);
 
                     rb.AddForce(magnetismForce, ForceMode2D.Impulse);
+
+                    
                 }
             }
                     if (Input.GetAxisRaw("Fire1") != 0.0f || Input.GetAxisRaw("Fire2") != 0.0f)
@@ -97,9 +99,6 @@ public class PowersController : MonoBehaviour {
     }
 
 	// Update is called once per frame
-	void Update () {
-	
-	}
 
     void OnGizmosDraw()
     {

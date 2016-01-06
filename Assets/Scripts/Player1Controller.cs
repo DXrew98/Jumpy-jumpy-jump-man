@@ -7,15 +7,18 @@ public class Player1Controller : MonoBehaviour {
     public float jumpStrength;
 
     private bool grounded;
+    private bool isWalking = false;
 
     private Rigidbody2D rb;
+    private Animator anim;
 
-    private float GroundCheckRayLen = 1.2f;
+    private float GroundCheckRayLen = 0.5f;
 
 	// Use this for initialization
 	void Awake ()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
 	}
 	
     bool GroundCheck()
@@ -41,12 +44,14 @@ public class Player1Controller : MonoBehaviour {
     void FixedUpdate()
     {
         grounded = GroundCheck();
+        
 
             rb.velocity = new Vector2(0f, rb.velocity.y);
 
             float moveHor = Input.GetAxis("Horizontal");
             float jump = Input.GetButtonDown("Jump") ? 1 : 0;
 
+        
 
         if (!grounded)
         {
@@ -56,6 +61,7 @@ public class Player1Controller : MonoBehaviour {
         Vector2 movement = new Vector2(moveHor, jump * jumpStrength);
 
             rb.AddForce(movement * speed, ForceMode2D.Impulse);
-        
+
+        anim.SetFloat("walkSpeed", rb.velocity.magnitude);
     }
 }
