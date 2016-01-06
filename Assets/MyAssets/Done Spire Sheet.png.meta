@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: fde888d4741734841ad7ececa9344e88
+timeCreated: 1451934422
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Done Spire Sheet_0
+    21300002: Done Spire Sheet_1
+    21300004: Done Spire Sheet_2
+    21300006: Done Spire Sheet_3
+    21300008: Done Spire Sheet_4
+    21300010: Done Spire Sheet_5
+    21300012: Done Spire Sheet_6
+    21300014: Done Spire Sheet_7
+    21300016: Done Spire Sheet_8
+    21300018: Done Spire Sheet_9
+    21300020: Done Spire Sheet_10
+    21300022: Done Spire Sheet_11
+    21300024: Done Spire Sheet_12
+    21300026: Done Spire Sheet_13
+    21300028: Done Spire Sheet_14
+    21300030: Done Spire Sheet_15
+    21300032: Done Spire Sheet_16
+    21300034: Done Spire Sheet_17
+    21300036: Done Spire Sheet_18
+    21300038: Done Spire Sheet_19
+    21300040: Done Spire Sheet_20
+    21300042: Done Spire Sheet_21
+    21300044: Done Spire Sheet_22
+    21300046: Done Spire Sheet_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Done Spire Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 401
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 398
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 401
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 358
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 294
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 295
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 295
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 295
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 295
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 294
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 193
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 192
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 191
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 188
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 191
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 148
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 85
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 85
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Done Spire Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 84
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
